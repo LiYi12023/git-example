@@ -1,2 +1,2 @@
 # hi, this is comment
-print('Hello python & git rock')
+print('Hello python & git Rock')
